@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mis Conciertos</string>
+    <string name="Fecha_concierto">Fecha de concierto</string>
+    <string name="Fecha">Fecha</string>
+    <string name="ingrese_artista">Ingrese artista</string>
+    <string name="_01_01_2020">01/01/2020</string>
+    <string name="ingrese_precio">Ingrese precio</string>
+    <string name="genero">Género</string>
+    <string name="precio">Precio</string>
+    <string name="valoracion">Valoración</string>
+    <string name="registrar">Registrar</string>
+</resources>
